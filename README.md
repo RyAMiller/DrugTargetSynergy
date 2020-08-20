@@ -1,7 +1,7 @@
 # DreamDirections
 
 # SPARQL
-SPARQL queries to query WikiPathways RDF and return combinations pairs to be selected and calculate drug synergies.
+Java Scripts for querying of the WikiPathways SPARQL endpoint to retrieve target combinations. 
 
 # Calculations
 Calculations directory contains R scripts to take combination pairs and calculate drug synergy predictions.
